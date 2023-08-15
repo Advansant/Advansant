@@ -5,6 +5,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3qz-cB3yOYiXNb5DNZS_9A)
 
 ![Advan GitHub stats](https://github-readme-stats.vercel.app/api?username=Advansant&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Advansant&show_icons=true&theme=radical)
 
 ### Sistemas Operacionais que trabalho/Já trabalhei
 <div style="display: inline_block"><br/>
